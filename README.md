@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lydiagb24
+- 👋 Hi, I’m Lydia
 - 👀 I’m interested in engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
